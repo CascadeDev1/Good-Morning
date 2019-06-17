@@ -1,2 +1,2 @@
 # Good-Morning
-This is a test.  This is only a test.
+Hey, this is a little baby editor.  How adorable.
